@@ -1,0 +1,13 @@
+.card{
+    background-color: rgb(160, 68, 68);
+    height: 150px;
+    width: 1000px;
+    margin: 20px;
+    padding: 20px;
+}
+
+.nav{
+    background-color: rgb(50, 156, 156);
+    padding: 10px;
+    margin: 10px;
+}
